@@ -1,3 +1,7 @@
 #first {
   color: red;
 }
+//image//
+body {
+  background-image: url("Bighead.jpg");
+}
